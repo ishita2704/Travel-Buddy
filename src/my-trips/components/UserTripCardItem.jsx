@@ -1,5 +1,5 @@
 import { PHOTO_REF_URL } from "@/constants/options";
-import { GetPlaceDetails } from "@/service/GlobalApi";
+import { GetPlaceDetails } from "@/service/Globalapi";
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import airplane from "../../assets/airplane.webp";
